@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shuma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\FAMCS\\programing\\OiMP\\2_semester\\MOP\\PZ\\dz\\dz_na_07.02(lab1)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68A8282D-E389-4DBD-B05F-9EBDAC0D14CA}|dz_na_07.02(vyrazhenia).vcxproj|C:\\Users\\shuma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\FAMCS\\programing\\OiMP\\2_semester\\MOP\\PZ\\dz\\dz_na_07.02(lab1)\\dz_na_07.02(vyrazhenia).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{68A8282D-E389-4DBD-B05F-9EBDAC0D14CA}|dz_na_07.02(vyrazhenia).vcxproj|solutionrelative:dz_na_07.02(vyrazhenia).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCA9A2C-4B9A-4C29-BC4B-EF44140F0598}|4\\4.vcxproj|C:\\Users\\shuma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\FAMCS\\programing\\OiMP\\2_semester\\MOP\\PZ\\dz\\dz_na_07.02(lab1)\\4\\4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8FCA9A2C-4B9A-4C29-BC4B-EF44140F0598}|4\\4.vcxproj|solutionrelative:4\\4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB0EDA3F-ED0F-462A-8A87-448DA801B576}|2\\2.vcxproj|C:\\Users\\shuma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\FAMCS\\programing\\OiMP\\2_semester\\MOP\\PZ\\dz\\dz_na_07.02(lab1)\\2\\2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB0EDA3F-ED0F-462A-8A87-448DA801B576}|2\\2.vcxproj|solutionrelative:2\\2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF6DF1D-7B63-491E-9307-36E4701FAA42}|3\\3.vcxproj|C:\\Users\\shuma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\FAMCS\\programing\\OiMP\\2_semester\\MOP\\PZ\\dz\\dz_na_07.02(lab1)\\3\\3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8DF6DF1D-7B63-491E-9307-36E4701FAA42}|3\\3.vcxproj|solutionrelative:3\\3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 107,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "4.cpp",
+              "DocumentMoniker": "C:\\Users\\shuma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\FAMCS\\programing\\OiMP\\2_semester\\MOP\\PZ\\dz\\dz_na_07.02(lab1)\\4\\4.cpp",
+              "RelativeDocumentMoniker": "4\\4.cpp",
+              "ToolTip": "C:\\Users\\shuma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\FAMCS\\programing\\OiMP\\2_semester\\MOP\\PZ\\dz\\dz_na_07.02(lab1)\\4\\4.cpp",
+              "RelativeToolTip": "4\\4.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-06T15:15:57.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "3.cpp",
+              "DocumentMoniker": "C:\\Users\\shuma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\FAMCS\\programing\\OiMP\\2_semester\\MOP\\PZ\\dz\\dz_na_07.02(lab1)\\3\\3.cpp",
+              "RelativeDocumentMoniker": "3\\3.cpp",
+              "ToolTip": "C:\\Users\\shuma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\FAMCS\\programing\\OiMP\\2_semester\\MOP\\PZ\\dz\\dz_na_07.02(lab1)\\3\\3.cpp",
+              "RelativeToolTip": "3\\3.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-06T14:19:49.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "2.cpp",
+              "DocumentMoniker": "C:\\Users\\shuma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\FAMCS\\programing\\OiMP\\2_semester\\MOP\\PZ\\dz\\dz_na_07.02(lab1)\\2\\2.cpp",
+              "RelativeDocumentMoniker": "2\\2.cpp",
+              "ToolTip": "C:\\Users\\shuma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\FAMCS\\programing\\OiMP\\2_semester\\MOP\\PZ\\dz\\dz_na_07.02(lab1)\\2\\2.cpp",
+              "RelativeToolTip": "2\\2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-06T14:06:48.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dz_na_07.02(vyrazhenia).cpp",
+              "DocumentMoniker": "C:\\Users\\shuma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\FAMCS\\programing\\OiMP\\2_semester\\MOP\\PZ\\dz\\dz_na_07.02(lab1)\\dz_na_07.02(vyrazhenia).cpp",
+              "RelativeDocumentMoniker": "dz_na_07.02(vyrazhenia).cpp",
+              "ToolTip": "C:\\Users\\shuma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\FAMCS\\programing\\OiMP\\2_semester\\MOP\\PZ\\dz\\dz_na_07.02(lab1)\\dz_na_07.02(vyrazhenia).cpp",
+              "RelativeToolTip": "dz_na_07.02(vyrazhenia).cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-06T13:48:50.265Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

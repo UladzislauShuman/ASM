@@ -1,0 +1,3 @@
+﻿  3.cpp
+C:\Users\shuma\OneDrive\Рабочий стол\FAMCS\programing\OiMP\2_semester\MOP\PZ\dz\dz_na_21.02(lab4)\3\3.cpp(23,22): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  3.vcxproj -> C:\Users\shuma\OneDrive\Рабочий стол\FAMCS\programing\OiMP\2_semester\MOP\PZ\dz\dz_na_21.02(lab4)\Debug\3.exe

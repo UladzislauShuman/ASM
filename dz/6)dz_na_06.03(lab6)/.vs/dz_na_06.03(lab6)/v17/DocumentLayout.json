@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shuma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\FAMCS\\programing\\OiMP\\2_semester\\MOP\\PZ\\dz\\6)dz_na_06.03(lab6)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B5CB00-E4F5-44FE-9A5F-1993B9D82628}|dz_na_06.03(lab6).vcxproj|C:\\Users\\shuma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\FAMCS\\programing\\OiMP\\2_semester\\MOP\\PZ\\dz\\6)dz_na_06.03(lab6)\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0B5CB00-E4F5-44FE-9A5F-1993B9D82628}|dz_na_06.03(lab6).vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B5CB00-E4F5-44FE-9A5F-1993B9D82628}|dz_na_06.03(lab6).vcxproj|C:\\Users\\shuma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\FAMCS\\programing\\OiMP\\2_semester\\MOP\\PZ\\dz\\6)dz_na_06.03(lab6)\\\u0432\u043E\u043F\u0440\u043E\u0441\u044B.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F0B5CB00-E4F5-44FE-9A5F-1993B9D82628}|dz_na_06.03(lab6).vcxproj|solutionrelative:\u0432\u043E\u043F\u0440\u043E\u0441\u044B.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B5CB00-E4F5-44FE-9A5F-1993B9D82628}|dz_na_06.03(lab6).vcxproj|C:\\Users\\shuma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\FAMCS\\programing\\OiMP\\2_semester\\MOP\\PZ\\dz\\6)dz_na_06.03(lab6)\\seconPart.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F0B5CB00-E4F5-44FE-9A5F-1993B9D82628}|dz_na_06.03(lab6).vcxproj|solutionrelative:seconPart.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 53,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\shuma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\FAMCS\\programing\\OiMP\\2_semester\\MOP\\PZ\\dz\\6)dz_na_06.03(lab6)\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\shuma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\FAMCS\\programing\\OiMP\\2_semester\\MOP\\PZ\\dz\\6)dz_na_06.03(lab6)\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-05T16:24:09.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\u0432\u043E\u043F\u0440\u043E\u0441\u044B.txt",
+              "DocumentMoniker": "C:\\Users\\shuma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\FAMCS\\programing\\OiMP\\2_semester\\MOP\\PZ\\dz\\6)dz_na_06.03(lab6)\\\u0432\u043E\u043F\u0440\u043E\u0441\u044B.txt",
+              "RelativeDocumentMoniker": "\u0432\u043E\u043F\u0440\u043E\u0441\u044B.txt",
+              "ToolTip": "C:\\Users\\shuma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\FAMCS\\programing\\OiMP\\2_semester\\MOP\\PZ\\dz\\6)dz_na_06.03(lab6)\\\u0432\u043E\u043F\u0440\u043E\u0441\u044B.txt",
+              "RelativeToolTip": "\u0432\u043E\u043F\u0440\u043E\u0441\u044B.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-03-12T19:57:37.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "seconPart.asm",
+              "DocumentMoniker": "C:\\Users\\shuma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\FAMCS\\programing\\OiMP\\2_semester\\MOP\\PZ\\dz\\6)dz_na_06.03(lab6)\\seconPart.asm",
+              "RelativeDocumentMoniker": "seconPart.asm",
+              "ToolTip": "C:\\Users\\shuma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\FAMCS\\programing\\OiMP\\2_semester\\MOP\\PZ\\dz\\6)dz_na_06.03(lab6)\\seconPart.asm",
+              "RelativeToolTip": "seconPart.asm",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-12T19:05:59.21Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+﻿  dopDZ07.02.cpp
+C:\Users\shuma\OneDrive\Рабочий стол\FAMCS\programing\OiMP\2_semester\MOP\PZ\dz\dz_na_07.02(vyrazhenia)\dopDZ07.02\dopDZ07.02.cpp(15,3): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+C:\Users\shuma\OneDrive\Рабочий стол\FAMCS\programing\OiMP\2_semester\MOP\PZ\dz\dz_na_07.02(vyrazhenia)\dopDZ07.02\dopDZ07.02.cpp(17,4): error C2065: mov: необъявленный идентификатор
+C:\Users\shuma\OneDrive\Рабочий стол\FAMCS\programing\OiMP\2_semester\MOP\PZ\dz\dz_na_07.02(vyrazhenia)\dopDZ07.02\dopDZ07.02.cpp(17,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+C:\Users\shuma\OneDrive\Рабочий стол\FAMCS\programing\OiMP\2_semester\MOP\PZ\dz\dz_na_07.02(vyrazhenia)\dopDZ07.02\dopDZ07.02.cpp(17,8): error C2065: eax: необъявленный идентификатор
+C:\Users\shuma\OneDrive\Рабочий стол\FAMCS\programing\OiMP\2_semester\MOP\PZ\dz\dz_na_07.02(vyrazhenia)\dopDZ07.02\dopDZ07.02.cpp(18,4): error C2065: SHL: необъявленный идентификатор
+C:\Users\shuma\OneDrive\Рабочий стол\FAMCS\programing\OiMP\2_semester\MOP\PZ\dz\dz_na_07.02(vyrazhenia)\dopDZ07.02\dopDZ07.02.cpp(18,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+C:\Users\shuma\OneDrive\Рабочий стол\FAMCS\programing\OiMP\2_semester\MOP\PZ\dz\dz_na_07.02(vyrazhenia)\dopDZ07.02\dopDZ07.02.cpp(18,8): error C2065: eax: необъявленный идентификатор
+C:\Users\shuma\OneDrive\Рабочий стол\FAMCS\programing\OiMP\2_semester\MOP\PZ\dz\dz_na_07.02(vyrazhenia)\dopDZ07.02\dopDZ07.02.cpp(19,4): error C2065: mov: необъявленный идентификатор
+C:\Users\shuma\OneDrive\Рабочий стол\FAMCS\programing\OiMP\2_semester\MOP\PZ\dz\dz_na_07.02(vyrazhenia)\dopDZ07.02\dopDZ07.02.cpp(19,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ans"
+C:\Users\shuma\OneDrive\Рабочий стол\FAMCS\programing\OiMP\2_semester\MOP\PZ\dz\dz_na_07.02(vyrazhenia)\dopDZ07.02\dopDZ07.02.cpp(19,13): error C2065: eax: необъявленный идентификатор

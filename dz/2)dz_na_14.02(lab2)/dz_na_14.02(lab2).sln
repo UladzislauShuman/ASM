@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1", "dz_na_14.02(lab2).vcxproj", "{0E444CDC-95E9-43CB-B149-799DE57D019D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2", "2\2.vcxproj", "{5210A119-499F-4CA2-9A4F-4F83D2F5140D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3", "3. Написать программу возведения целого числа в натуральную степень\3.vcxproj", "{6A3FD4EF-442E-482B-AE40-D4EFB8CEF09C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "4", "4\4.vcxproj", "{C92D349B-1BBC-40C4-BC48-20442159B57D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E444CDC-95E9-43CB-B149-799DE57D019D}.Debug|x64.ActiveCfg = Debug|x64
+		{0E444CDC-95E9-43CB-B149-799DE57D019D}.Debug|x64.Build.0 = Debug|x64
+		{0E444CDC-95E9-43CB-B149-799DE57D019D}.Debug|x86.ActiveCfg = Debug|Win32
+		{0E444CDC-95E9-43CB-B149-799DE57D019D}.Debug|x86.Build.0 = Debug|Win32
+		{0E444CDC-95E9-43CB-B149-799DE57D019D}.Release|x64.ActiveCfg = Release|x64
+		{0E444CDC-95E9-43CB-B149-799DE57D019D}.Release|x64.Build.0 = Release|x64
+		{0E444CDC-95E9-43CB-B149-799DE57D019D}.Release|x86.ActiveCfg = Release|Win32
+		{0E444CDC-95E9-43CB-B149-799DE57D019D}.Release|x86.Build.0 = Release|Win32
+		{5210A119-499F-4CA2-9A4F-4F83D2F5140D}.Debug|x64.ActiveCfg = Debug|x64
+		{5210A119-499F-4CA2-9A4F-4F83D2F5140D}.Debug|x64.Build.0 = Debug|x64
+		{5210A119-499F-4CA2-9A4F-4F83D2F5140D}.Debug|x86.ActiveCfg = Debug|Win32
+		{5210A119-499F-4CA2-9A4F-4F83D2F5140D}.Debug|x86.Build.0 = Debug|Win32
+		{5210A119-499F-4CA2-9A4F-4F83D2F5140D}.Release|x64.ActiveCfg = Release|x64
+		{5210A119-499F-4CA2-9A4F-4F83D2F5140D}.Release|x64.Build.0 = Release|x64
+		{5210A119-499F-4CA2-9A4F-4F83D2F5140D}.Release|x86.ActiveCfg = Release|Win32
+		{5210A119-499F-4CA2-9A4F-4F83D2F5140D}.Release|x86.Build.0 = Release|Win32
+		{6A3FD4EF-442E-482B-AE40-D4EFB8CEF09C}.Debug|x64.ActiveCfg = Debug|x64
+		{6A3FD4EF-442E-482B-AE40-D4EFB8CEF09C}.Debug|x64.Build.0 = Debug|x64
+		{6A3FD4EF-442E-482B-AE40-D4EFB8CEF09C}.Debug|x86.ActiveCfg = Debug|Win32
+		{6A3FD4EF-442E-482B-AE40-D4EFB8CEF09C}.Debug|x86.Build.0 = Debug|Win32
+		{6A3FD4EF-442E-482B-AE40-D4EFB8CEF09C}.Release|x64.ActiveCfg = Release|x64
+		{6A3FD4EF-442E-482B-AE40-D4EFB8CEF09C}.Release|x64.Build.0 = Release|x64
+		{6A3FD4EF-442E-482B-AE40-D4EFB8CEF09C}.Release|x86.ActiveCfg = Release|Win32
+		{6A3FD4EF-442E-482B-AE40-D4EFB8CEF09C}.Release|x86.Build.0 = Release|Win32
+		{C92D349B-1BBC-40C4-BC48-20442159B57D}.Debug|x64.ActiveCfg = Debug|x64
+		{C92D349B-1BBC-40C4-BC48-20442159B57D}.Debug|x64.Build.0 = Debug|x64
+		{C92D349B-1BBC-40C4-BC48-20442159B57D}.Debug|x86.ActiveCfg = Debug|Win32
+		{C92D349B-1BBC-40C4-BC48-20442159B57D}.Debug|x86.Build.0 = Debug|Win32
+		{C92D349B-1BBC-40C4-BC48-20442159B57D}.Release|x64.ActiveCfg = Release|x64
+		{C92D349B-1BBC-40C4-BC48-20442159B57D}.Release|x64.Build.0 = Release|x64
+		{C92D349B-1BBC-40C4-BC48-20442159B57D}.Release|x86.ActiveCfg = Release|Win32
+		{C92D349B-1BBC-40C4-BC48-20442159B57D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BEB6A5A3-03EA-4978-979B-A633C306602F}
+	EndGlobalSection
+EndGlobal
