@@ -1,5 +1,0 @@
-﻿  Assembling zadania.asm...
-zadania.asm(1): error A2008: syntax error : .
-zadania.asm(2): error A2008: syntax error : .
-zadania.asm(22): error A2070: invalid instruction operands
-C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: выход из команды "ml64.exe /c /nologo /Zi /Fo"dz_na_06.f0b5cb00\x64\Debug\zadania.obj" /W3 /errorReport:prompt  /Tazadania.asm" с кодом "1".
